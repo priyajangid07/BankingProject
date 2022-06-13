@@ -17,7 +17,7 @@ public class BaseClass {
 	static ExtentReports report;
 	
 	static ExtentTest test;
-	
+	static int a;
 	static WebDriver driver;
 	public static WebDriver getDriver(String browser)
 	{
